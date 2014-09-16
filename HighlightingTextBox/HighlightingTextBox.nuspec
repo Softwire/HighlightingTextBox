@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>HighlightingTextBox</title>
+    <authors>Softwire</authors>
+    <owners>Softwire</owners>
+    <projectUrl>https://github.com/Softwire/HighlightingTextBox</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A custom textbox for WPF which will highlight text depending on a supplied function.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>
