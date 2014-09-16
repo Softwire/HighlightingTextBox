@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighlightingTextBox", "HighlightingTextBox\HighlightingTextBox.csproj", "{331779E5-C131-4DE1-8F89-BAFD2A0F0875}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighlightingTextBox.Tests", "HighlightingTextBox.Tests\HighlightingTextBox.Tests.csproj", "{72BACF27-52A3-409C-BFF2-533F92C2CC36}"
+	ProjectSection(ProjectDependencies) = postProject
+		{331779E5-C131-4DE1-8F89-BAFD2A0F0875} = {331779E5-C131-4DE1-8F89-BAFD2A0F0875}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
